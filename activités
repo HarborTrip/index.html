@@ -1,0 +1,32 @@
+<html>
+<header><title>HARBORTRIP</title></header>
+<body>
+  <img><a href="https://www.facebook.com/HarborTrip-757887107930375/">
+<img src="harbortrip logo.jpg" 
+alt="Accueil"
+width="200"
+height="200"
+border="0"></a>
+  <img><a href="index.html">
+<img src="accueil1.jpg" 
+alt="Accueil"
+width="200"
+height="200"
+border="0"></a
+  <img><a href="contact.html">
+<img src="contact1.jpg" 
+alt="Contact"
+width="200"
+height="200"
+border="0"></a>
+  <img><a href="activités.html">
+<img src="activités1.jpg" 
+alt="Activités"
+width="200"
+height="200"
+border="0"></a>
+  <h1 align=center>Bienvenue sur la page des activités!</h1>
+  <h2 align=center>Il n'y a rien pour le moment.</h2>
+<footer>@Site créé par Julien Troubé.</footer>
+</body>
+</html>
